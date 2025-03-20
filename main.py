@@ -7,7 +7,6 @@ import string
 from datetime import datetime
 from utils import generate_pdf
 
-TOKEN = "7559791788:AAE7vRBozppm8pB9oESwwkkxeppSizUG4aY"
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 
 PROPERTY_NAME = "River's Edge Villa"
